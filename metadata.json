@@ -1,0 +1,6 @@
+{
+  "name": "이미지 행렬 합성 실습실 (교과서 p.93)",
+  "description": "고등학교 수학 교과서 93쪽: 두 이미지 행렬의 실수배와 덧셈 (1-k)*M1 + k*M2 연산을 실시간으로 시각화하고 실습하는 교육용 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
